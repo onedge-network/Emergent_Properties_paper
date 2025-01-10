@@ -5,6 +5,6 @@ The file Emergent_Properties_Tristain_24.pdf contains an explanation of the key 
 Visualization have been generated using the following library:
 https://github.com/labormedia/lattice-image
 
-All rights reserved by it's author.
+All rights reserved by its author.
 
 For comments and contibutions please contact through the mail energy@onedge.network.
