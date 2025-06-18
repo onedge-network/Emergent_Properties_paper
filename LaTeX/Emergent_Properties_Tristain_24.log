@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.6)  12 JUN 2025 12:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.6)  18 JUN 2025 10:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -468,23 +468,24 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count301
 \l__pdf_internal_box=\box66
 )
-No file Emergent_Properties_Tristain_24.aux.
+(./Emergent_Properties_Tristain_24.aux)
 \openout1 = `Emergent_Properties_Tristain_24.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count302
@@ -507,13 +508,13 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -521,35 +522,35 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (32.61151pt too wide) in paragraph at lines 82--83
+Overfull \hbox (32.61151pt too wide) in paragraph at lines 104--105
  [] 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
 
  []
 
 [3]
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (110.59486pt too wide) in paragraph at lines 286--287
+Overfull \hbox (110.59486pt too wide) in paragraph at lines 308--309
  [] 
  []
 
 [4]
 
-LaTeX Warning: Float too large for page by 25.02667pt on input line 335.
+LaTeX Warning: Float too large for page by 25.02667pt on input line 357.
 
 [5] [6]
-Overfull \hbox (17.25583pt too wide) in paragraph at lines 340--340
+Overfull \hbox (17.25583pt too wide) in paragraph at lines 362--362
 []\OT1/cmr/bx/n/17.28 Appendix: Unique-ness of Op-ti-mal Pair Eval-
  []
 
 [7] (./Emergent_Properties_Tristain_24.aux) ) 
 Here is how much of TeX's memory you used:
- 14003 strings out of 476025
- 280609 string characters out of 5790018
+ 14005 strings out of 476025
+ 280681 string characters out of 5790018
  1866388 words of memory out of 5000000
  34216 multiletter control sequences out of 15000+600000
  525571 words of font info for 82 fonts, out of 8000000 for 9000
@@ -578,7 +579,7 @@ cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 ti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 t12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols
 /msbm10.pfb>
-Output written on Emergent_Properties_Tristain_24.pdf (7 pages, 239391 bytes).
+Output written on Emergent_Properties_Tristain_24.pdf (7 pages, 239568 bytes).
 PDF statistics:
  141 PDF objects out of 1000 (max. 8388607)
  87 compressed objects within 1 object stream
